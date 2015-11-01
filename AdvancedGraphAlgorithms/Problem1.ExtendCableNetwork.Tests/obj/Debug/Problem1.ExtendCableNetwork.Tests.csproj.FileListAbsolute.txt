@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\bin\Debug\Problem1.ExtendCableNetwork.Tests.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\bin\Debug\Problem1.ExtendCableNetwork.Tests.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\bin\Debug\Problem1.ExtendCableNetwork.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\bin\Debug\Problem1.ExtendCableNetwork.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\obj\Debug\Problem1.ExtendCableNetwork.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\obj\Debug\Problem1.ExtendCableNetwork.Tests.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\obj\Debug\Problem1.ExtendCableNetwork.Tests.pdb
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\bin\Debug\Problem1.ExtendCableNetwork.Tests.dll
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\bin\Debug\Problem1.ExtendCableNetwork.Tests.pdb
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\bin\Debug\Problem1.ExtendCableNetwork.exe
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\bin\Debug\Problem1.ExtendCableNetwork.pdb
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\obj\Debug\Problem1.ExtendCableNetwork.Tests.csprojResolveAssemblyReference.cache
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\obj\Debug\Problem1.ExtendCableNetwork.Tests.dll
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork.Tests\obj\Debug\Problem1.ExtendCableNetwork.Tests.pdb

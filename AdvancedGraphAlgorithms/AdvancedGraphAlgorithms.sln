@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1.ExtendCableNetwork", "Problem1.ExtendCableNetwork\Problem1.ExtendCableNetwork.csproj", "{F27D4863-B3F0-44EB-BA67-B43F7EB19665}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem1", "Problem1", "{6EB5078B-3657-4821-8B1F-AB811AB3322A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1.ExtendCableNetwork.Tests", "Problem1.ExtendCableNetwork.Tests\Problem1.ExtendCableNetwork.Tests.csproj", "{E6AC6F70-FA3F-49ED-AC3A-D5D56CF875AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2.ModifiedKruskalAlgorithm", "Problem2.ModifiedKruskalAlgorithm\Problem2.ModifiedKruskalAlgorithm.csproj", "{7B666744-DC54-4032-ADC8-1D4C9F3560E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem2", "Problem2", "{3FF869E5-2D01-46AB-9C85-9C73A032F494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2.ModifiedKruskalAlgorithm.Tests", "Problem2.ModifiedKruskalAlgorithm.Tests\Problem2.ModifiedKruskalAlgorithm.Tests.csproj", "{5E3C52F1-6181-4323-9F78-F964A1F9D82E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3.MostReliablePath", "Problem3.MostReliablePath\Problem3.MostReliablePath.csproj", "{DDBD3FAD-E12A-450A-8F67-1E85036A29E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem3", "Problem3", "{79C4E224-4871-4FBF-9B7C-17FAB9310F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3.MostReliablePath.Tests", "Problem3.MostReliablePath.Tests\Problem3.MostReliablePath.Tests.csproj", "{C9328E16-A922-4776-A7EA-E57C59A6778C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4.ShortestPathsBetweenAllPairsOfNodes", "Problem4.ShortestPathsBetweenAllPairsOfNodes\Problem4.ShortestPathsBetweenAllPairsOfNodes.csproj", "{CE4ACA6D-52E8-44B4-A079-590C20B15C3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem4", "Problem4", "{9462ED8D-7C79-41F3-9C8E-F14FA62C43F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4.ShortestPathsBetweenAllPairsOfNodes.Tests", "Problem4.ShortestPathsBetweenAllPairsOfNodes.Tests\Problem4.ShortestPathsBetweenAllPairsOfNodes.Tests.csproj", "{46E18673-5AAD-4BDE-932B-A516F1A2423F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27D4863-B3F0-44EB-BA67-B43F7EB19665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27D4863-B3F0-44EB-BA67-B43F7EB19665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27D4863-B3F0-44EB-BA67-B43F7EB19665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27D4863-B3F0-44EB-BA67-B43F7EB19665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6AC6F70-FA3F-49ED-AC3A-D5D56CF875AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AC6F70-FA3F-49ED-AC3A-D5D56CF875AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AC6F70-FA3F-49ED-AC3A-D5D56CF875AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AC6F70-FA3F-49ED-AC3A-D5D56CF875AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B666744-DC54-4032-ADC8-1D4C9F3560E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B666744-DC54-4032-ADC8-1D4C9F3560E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B666744-DC54-4032-ADC8-1D4C9F3560E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B666744-DC54-4032-ADC8-1D4C9F3560E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3C52F1-6181-4323-9F78-F964A1F9D82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3C52F1-6181-4323-9F78-F964A1F9D82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3C52F1-6181-4323-9F78-F964A1F9D82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3C52F1-6181-4323-9F78-F964A1F9D82E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBD3FAD-E12A-450A-8F67-1E85036A29E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBD3FAD-E12A-450A-8F67-1E85036A29E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBD3FAD-E12A-450A-8F67-1E85036A29E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBD3FAD-E12A-450A-8F67-1E85036A29E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9328E16-A922-4776-A7EA-E57C59A6778C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9328E16-A922-4776-A7EA-E57C59A6778C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9328E16-A922-4776-A7EA-E57C59A6778C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9328E16-A922-4776-A7EA-E57C59A6778C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4ACA6D-52E8-44B4-A079-590C20B15C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4ACA6D-52E8-44B4-A079-590C20B15C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4ACA6D-52E8-44B4-A079-590C20B15C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4ACA6D-52E8-44B4-A079-590C20B15C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E18673-5AAD-4BDE-932B-A516F1A2423F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E18673-5AAD-4BDE-932B-A516F1A2423F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E18673-5AAD-4BDE-932B-A516F1A2423F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E18673-5AAD-4BDE-932B-A516F1A2423F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F27D4863-B3F0-44EB-BA67-B43F7EB19665} = {6EB5078B-3657-4821-8B1F-AB811AB3322A}
+		{E6AC6F70-FA3F-49ED-AC3A-D5D56CF875AA} = {6EB5078B-3657-4821-8B1F-AB811AB3322A}
+		{7B666744-DC54-4032-ADC8-1D4C9F3560E4} = {3FF869E5-2D01-46AB-9C85-9C73A032F494}
+		{5E3C52F1-6181-4323-9F78-F964A1F9D82E} = {3FF869E5-2D01-46AB-9C85-9C73A032F494}
+		{DDBD3FAD-E12A-450A-8F67-1E85036A29E1} = {79C4E224-4871-4FBF-9B7C-17FAB9310F87}
+		{C9328E16-A922-4776-A7EA-E57C59A6778C} = {79C4E224-4871-4FBF-9B7C-17FAB9310F87}
+		{CE4ACA6D-52E8-44B4-A079-590C20B15C3C} = {9462ED8D-7C79-41F3-9C8E-F14FA62C43F3}
+		{46E18673-5AAD-4BDE-932B-A516F1A2423F} = {9462ED8D-7C79-41F3-9C8E-F14FA62C43F3}
+	EndGlobalSection
+EndGlobal

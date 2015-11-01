@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\bin\Debug\Problem1.ExtendCableNetwork.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\bin\Debug\Problem1.ExtendCableNetwork.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\bin\Debug\Problem1.ExtendCableNetwork.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\obj\Debug\Problem1.ExtendCableNetwork.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\obj\Debug\Problem1.ExtendCableNetwork.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\obj\Debug\Problem1.ExtendCableNetwork.csprojResolveAssemblyReference.cache
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\bin\Debug\Problem1.ExtendCableNetwork.exe.config
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\obj\Debug\Problem1.ExtendCableNetwork.exe
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\obj\Debug\Problem1.ExtendCableNetwork.pdb
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\bin\Debug\Problem1.ExtendCableNetwork.exe
+D:\MyFiles\Education\Software\SoftwareUniversity\4Level\DataStucturesAndAlgorithms\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\bin\Debug\Problem1.ExtendCableNetwork.pdb
+C:\Users\User\Desktop\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\bin\Debug\Problem1.ExtendCableNetwork.exe.config
+C:\Users\User\Desktop\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\obj\Debug\Problem1.ExtendCableNetwork.exe
+C:\Users\User\Desktop\Algorithms\AdvancedGraphAlgorithms\Problem1.ExtendCableNetwork\obj\Debug\Problem1.ExtendCableNetwork.pdb
